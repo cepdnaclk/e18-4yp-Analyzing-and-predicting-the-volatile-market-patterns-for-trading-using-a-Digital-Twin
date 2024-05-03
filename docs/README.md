@@ -55,7 +55,7 @@ The project aims to explore and analyze volatile market patterns to enhance trad
 [//]: # "Note: Uncomment each once you uploaded the files to the repository"
 
  1. [Semester 7 report](https://drive.google.com/file/d/1T5Qyu1jfoJ8Vvoy_QXVtqgb5YSCJtaFU/view?usp=sharing)
- 2. [Semester 7 slides](https://docs.google.com/presentation/d/1M16RRqKo5Y5KziZztlXpEGkN6o1rM9HO-ZJyV4hftTA/edit#slide=id.p2)
+ 2. [Semester 8 slides](https://docs.google.com/presentation/d/1M16RRqKo5Y5KziZztlXpEGkN6o1rM9HO-ZJyV4hftTA/edit#slide=id.p2)
 <!-- 3. [Semester 8 report](./) -->
 <!-- 4. [Semester 8 slides](./) -->
 <!-- 5. Author 1, Author 2 and Author 3 "Research paper title" (2021). [PDF](./). -->
