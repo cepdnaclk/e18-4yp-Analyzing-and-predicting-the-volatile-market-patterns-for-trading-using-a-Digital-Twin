@@ -13,9 +13,8 @@ title:
 
 #### Team
 
-- e18354, Ruchira Tharaka, [email](mailto:e18354@eng.pdn.ac.lk)
-- e18318, Piyumali Sandunika, [email](mailto:e18318@eng.pdn.ac.lk)
-- e18022, Didula Induwara, [email](mailto:e18022@eng.pdn.ac.lk)
+- e18036, Mahela Bandara, [email](mailto:e18036@eng.pdn.ac.lk)
+- e18149, Ishta Jayakody, [email](mailto:e18149@eng.pdn.ac.lk)
 
 #### Supervisors
 
