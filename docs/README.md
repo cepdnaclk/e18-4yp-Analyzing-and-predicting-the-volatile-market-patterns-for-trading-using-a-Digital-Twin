@@ -18,8 +18,7 @@ title:
 
 #### Supervisors
 
-- Dr. Dharshana Kasthurirathna , [email](mailto:dharshana.k@sliit.lk)
-- Ms. Yasodha Vimukthi, [email](mailto:yasodhav@eng.pdn.ac.lk)
+- Dr. Asitha Bandaranayake , [email](mailto:asithab@eng.pdn.ac.lk)
 
 #### Table of content
 
