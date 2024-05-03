@@ -42,7 +42,7 @@ The project aims to explore and analyze volatile market patterns to enhance trad
 ![1](https://https://github.com/cepdnaclk/e18-4yp-Analyzing-and-predicting-the-volatile-market-patterns-for-trading-using-a-Digital-Twin/blob/main/docs/images/Screenshot%20from%202024-05-03%2019-27-05.png)
 
 
-![2](https://github.com/cepdnaclk/e18-4yp-Multimodal-Emotion-Prediction-Using-Reinforcement-Learning/assets/73444543/03679277-17b0-4bcb-b71c-892d1f95c4ff)
+![2]()
 
 
 ## Experiment Setup and Implementation
