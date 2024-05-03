@@ -1,0 +1,31 @@
+{
+    "team": [
+        {
+            "name": "Ruchira Tharaka",
+            "email": "e18354@eng.pdn.ac.lk",
+            "eNumber": "E/18/354"
+        },
+        {
+            "name": "Piyumali Sandunika",
+            "email": "e18318@eng.pdn.ac.lk",
+            "eNumber": "E/18/318"
+        },
+        {
+            "name": "Didula Induwara",
+            "email": "e18022@eng.pdn.ac.lk",
+            "eNumber": "E/18/022"
+        }
+    ],
+    "supervisors": [
+        {
+            "name": "Dr. Dharshana Kasthurirathna",
+            "email": "dharshana.k@sliit.lk"
+        },
+        {
+            "name": "Ms. Yasodha Vimukthi",
+            "email": "yasodhav@eng.pdn.ac.lk"
+        }
+    ],
+   
+    "tags": ["Final Year Projects"]
+}
