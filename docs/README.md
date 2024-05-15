@@ -49,6 +49,17 @@ The project aims to explore and analyze volatile market patterns to enhance trad
 ![3](https://github.com/cepdnaclk/e18-4yp-Analyzing-and-predicting-the-volatile-market-patterns-for-trading-using-a-Digital-Twin/blob/main/docs/images/Screenshot%20from%202024-04-26%2013-31-34.png)
 
 ## Results and Analysis
+![4](https://github.com/cepdnaclk/e18-4yp-Analyzing-and-predicting-the-volatile-market-patterns-for-trading-using-a-Digital-Twin/blob/main/docs/images/Screenshot%20from%202024-04-26%2018-44-41.png)
+
+![5](https://github.com/cepdnaclk/e18-4yp-Analyzing-and-predicting-the-volatile-market-patterns-for-trading-using-a-Digital-Twin/blob/main/docs/images/Screenshot%20from%202024-04-26%2019-24-52.png)
+
+![6](https://github.com/cepdnaclk/e18-4yp-Analyzing-and-predicting-the-volatile-market-patterns-for-trading-using-a-Digital-Twin/blob/main/docs/images/Screenshot%20from%202024-04-26%2019-25-04.png)
+
+![7](https://github.com/cepdnaclk/e18-4yp-Analyzing-and-predicting-the-volatile-market-patterns-for-trading-using-a-Digital-Twin/blob/main/docs/images/Screenshot%20from%202024-04-29%2018-00-36.png)
+
+![8](https://github.com/cepdnaclk/e18-4yp-Analyzing-and-predicting-the-volatile-market-patterns-for-trading-using-a-Digital-Twin/blob/main/docs/images/Screenshot%20from%202024-04-29%2018-01-00.png)
+
+![9](https://github.com/cepdnaclk/e18-4yp-Analyzing-and-predicting-the-volatile-market-patterns-for-trading-using-a-Digital-Twin/blob/main/docs/images/Screenshot%20from%202024-04-29%2019-22-28.png)
 
 ## Conclusion
 
