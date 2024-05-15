@@ -13,12 +13,12 @@ title:
 
 #### Team
 
-- e18036, Mahela Bandara, [email](mailto:e18036@eng.pdn.ac.lk)
-- e18149, Ishta Jayakody, [email](mailto:e18149@eng.pdn.ac.lk)
+- e18036, Mahela Bandara, [e18036@eng.pdn.ac.lk](mailto:e18036@eng.pdn.ac.lk)
+- e18149, Ishta Jayakody, [e18149@eng.pdn.ac.lk](mailto:e18149@eng.pdn.ac.lk)
 
 #### Supervisors
 
-- Dr. Asitha Bandaranayake , [email](mailto:asithab@eng.pdn.ac.lk)
+- Dr. Asitha Bandaranayake , [asithab@eng.pdn.ac.lk](mailto:asithab@eng.pdn.ac.lk)
 
 #### Table of content
 
