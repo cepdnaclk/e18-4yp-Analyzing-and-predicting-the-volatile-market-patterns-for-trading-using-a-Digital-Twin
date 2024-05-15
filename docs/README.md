@@ -46,6 +46,7 @@ The project aims to explore and analyze volatile market patterns to enhance trad
 
 
 ## Experiment Setup and Implementation
+![3](https://github.com/cepdnaclk/e18-4yp-Analyzing-and-predicting-the-volatile-market-patterns-for-trading-using-a-Digital-Twin/blob/main/docs/images/Screenshot%20from%202024-04-26%2013-31-34.png)
 
 ## Results and Analysis
 
