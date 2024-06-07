@@ -67,8 +67,7 @@ In conclusion, this project embarks on a comprehensive exploration of volatile m
 ## Publications
 [//]: # "Note: Uncomment each once you uploaded the files to the repository"
 
- 1. [Semester 7 report](https://drive.google.com/file/d/1V4MeDCM3Y5_t8Egt2MgWGYqv3bsbDNoj/view?usp=sharing)
- 2. [Semester 8 slides](https://docs.google.com/presentation/d/1M16RRqKo5Y5KziZztlXpEGkN6o1rM9HO-ZJyV4hftTA/edit#slide=id.p2)
+ 1. [Semester 8 slides](https://docs.google.com/presentation/d/1M16RRqKo5Y5KziZztlXpEGkN6o1rM9HO-ZJyV4hftTA/edit#slide=id.p2)
 <!-- 3. [Semester 8 report](./) -->
 <!-- 4. [Semester 8 slides](./) -->
 <!-- 5. Author 1, Author 2 and Author 3 "Research paper title" (2021). [PDF](./). -->
