@@ -1,6 +1,6 @@
 ---
 layout: home
-permalink: index.html
+permalink: https://projects.ce.pdn.ac.lk/4yp/e18/Analyzing-and-predicting-the-volatile-market-patterns-for-trading-using-a-Digital-Twin/
 
 # Please update this with your repository name and title
 repository-name: e18-4yp-Analyzing-and-predicting-the-volatile-market-patterns-for-trading-using-a-Digital-Twin
