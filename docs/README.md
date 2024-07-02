@@ -37,6 +37,9 @@ title:
 ## Abstract
 The project aims to explore and analyze volatile market patterns to enhance trading strategies through the implementation of a Digital Twin framework. The project delves into various sub-topics, including the application of Reinforcement Learning (RL) in Synthetic Trading Markets, a comparative study between Traditional and Automated Trading methods, Algorithmic Trading strategies, and the utilization of Reinforcement Learning techniques for trading optimization. Additionally, the project investigates investment handling techniques to effectively balance risk levels and maximize returns. By integrating these components within a Digital Twin framework, the project seeks to develop robust trading models capable of adapting to dynamic market conditions, thereby empowering traders to make informed decisions and achieve sustainable profitability in volatile financial markets.
 
+![abstract](https://github.com/cepdnaclk/e18-4yp-Analyzing-and-predicting-the-volatile-market-patterns-for-trading-using-a-Digital-Twin/assets/73831741/069a154f-c901-4267-8657-abd2855ca493)
+
+
 ## Methodology
 
 <div class="text-align: center">
