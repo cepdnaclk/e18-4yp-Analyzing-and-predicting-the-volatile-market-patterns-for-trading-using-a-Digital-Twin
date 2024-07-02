@@ -63,30 +63,9 @@ The project aims to explore and analyze volatile market patterns to enhance trad
 ![performance comparison loss filtering](https://github.com/cepdnaclk/e18-4yp-Analyzing-and-predicting-the-volatile-market-patterns-for-trading-using-a-Digital-Twin/assets/73831741/178208cc-a339-4d9e-a3da-bdf7fe5f0518)
 
 
-## Results and Analysis
-<div class="text-align: center">
-<img class=" width: 100%" src="./images/Screenshot from 2024-04-26 18-44-41.png" alt="3" />
-</div>
+## Expected Outcomes and Deliverables
+![expected outcomes](https://github.com/cepdnaclk/e18-4yp-Analyzing-and-predicting-the-volatile-market-patterns-for-trading-using-a-Digital-Twin/assets/73831741/0a4b2961-6222-45ea-9b06-f03936a6529f)
 
-<div class="text-align: center">
-<img class=" width: 100%" src="./images/Screenshot from 2024-04-26 19-24-52.png" alt="3" />
-</div>
-
-<div class="text-align: center">
-<img class=" width: 100%" src="./images/Screenshot from 2024-04-26 19-25-04.png" alt="3" />
-</div>
-
-<div class="text-align: center">
-<img class=" width: 100%" src="./images/Screenshot from 2024-04-29 18-00-36.png" alt="3" />
-</div>
-
-<div class="text-align: center">
-<img class=" width: 100%" src="./images/Screenshot from 2024-04-29 18-01-00.png" alt="3" />
-</div>
-
-<div class="text-align: center">
-<img class=" width: 100%" src="./images/Screenshot from 2024-04-29 19-22-28.png" alt="3" />
-</div>
 
 ## Conclusion
 In conclusion, this project embarks on a comprehensive exploration of volatile market patterns with the ultimate goal of enhancing trading strategies through the innovative framework of a Digital Twin. By delving into the realms of Reinforcement Learning, Traditional versus Automated Trading methods, Algorithmic Trading strategies, and the optimization potential of Reinforcement Learning techniques, the project aims to provide invaluable insights into navigating dynamic financial landscapes. Moreover, by incorporating investment handling techniques aimed at balancing risk and maximizing returns, the project strives to empower traders with robust models capable of adapting to ever-changing market conditions. Through these endeavors, the project envisions fostering informed decision-making and fostering sustainable profitability in the face of volatility.
