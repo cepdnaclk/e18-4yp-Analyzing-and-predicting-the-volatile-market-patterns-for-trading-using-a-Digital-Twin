@@ -44,8 +44,6 @@ The project aims to explore and analyze volatile market patterns to enhance trad
 rom 2024-05-03 19-27-05.png" alt="1" />
 </div>
 
-![investment](https://github.com/cepdnaclk/e18-4yp-Analyzing-and-predicting-the-volatile-market-patterns-for-trading-using-a-Digital-Twin/assets/73831741/6e25154e-9390-45ca-b5c8-f40271539ce9)
-
 
 <div class="text-align: center">
 <img class=" width: 100%" src="./images/Screenshot from 2024-04-26 14-15-19.png" alt="2" />
