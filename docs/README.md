@@ -46,7 +46,8 @@ The project aims to explore and analyze volatile market patterns to enhance trad
 
 ![methodology](https://github.com/cepdnaclk/e18-4yp-Analyzing-and-predicting-the-volatile-market-patterns-for-trading-using-a-Digital-Twin/assets/73831741/f454a62b-51ea-4bf6-a681-44eb36f3ae58)
 
-![Solution Architecture](https://github.com/cepdnaclk/e18-4yp-Analyzing-and-predicting-the-volatile-market-patterns-for-trading-using-a-Digital-Twin/assets/73831741/b856760c-c4f6-4982-9f5f-3ee1293ecc48)
+![Screenshot 2024-05-28 020408](https://github.com/cepdnaclk/e18-4yp-Analyzing-and-predicting-the-volatile-market-patterns-for-trading-using-a-Digital-Twin/assets/73831741/52c31cfd-66fa-43b9-8f8f-8a8c2b840fbc)
+
 
 
 ![Screenshot 2024-07-02 155629](https://github.com/cepdnaclk/e18-4yp-Analyzing-and-predicting-the-volatile-market-patterns-for-trading-using-a-Digital-Twin/assets/73831741/51aebc0c-de71-49d7-888b-cdd72d893edf)
